@@ -49,9 +49,9 @@ A Student belongs to a Teacher
 - grade
 - teacher_id
 
-API
+API Documentation
 
-GET/api/teachers
+GET/api/teachers/:id
 
 {
 	id: 1
@@ -62,6 +62,19 @@ GET/api/teachers
 	grade_level: “10th grade”
 }
 
+
+Get/api/students
+
+{
+	id: 1
+	full_name: "John Devins"
+	username: "jdevins"
+	password: "123"
+	image_link: ""
+	grade_level: "10th Grade"
+	grade: "77%"
+	teacher_id: 1
+}
 
 
 
