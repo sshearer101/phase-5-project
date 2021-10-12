@@ -71,12 +71,16 @@ Wireframe:
 App
 
 	Main Page
-		- Login 
+		- Teacher Login 
 			- Username
-			- Password			
-      - Login button 
+			- Password 			- Login button 
+		- Student Login
+			- Username
+			- Password
+			- Login button
 
-	Dashboard 
+	Teacher Dashboard 
+
 		- Your Profile
 		- Your Classes
 		- Search by student
@@ -90,5 +94,13 @@ App
 			- Send message
 			- Edit settings
 
+	Student Dashboard
+		
+		- Your profile
+		- Your classes
+		
+	- Classes 
+		- Grade
+		- assignments ordered based on due date
+		- Message board
 	
-
