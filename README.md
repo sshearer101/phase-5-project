@@ -25,6 +25,7 @@ User Story:
 
 Models and Relationships
 
+![image](https://user-images.githubusercontent.com/85294886/137011003-652b5ee4-59a4-45be-a24f-55e2adc3af6c.png)
 
 
 Teacher
